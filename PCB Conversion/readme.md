@@ -6,4 +6,4 @@ I will generate the firmware when I send my gerbers for print.
 
 Here are some pictures as a preview.  
 
-![La Lettre Keyboard](img/LaLettreFront3D)
+![La Lettre Keyboard](PCB Conversion/LaLettreFront3D)
