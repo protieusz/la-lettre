@@ -6,4 +6,8 @@ I will generate the firmware when I send my gerbers for print.
 
 Here are some pictures as a preview.  
 
-![la-lettre](PCB Conversion/LaLettreFront3D)
+Front
+![LaLettreFront3D](https://user-images.githubusercontent.com/118025702/231088744-b1884606-fda2-4425-8ded-a3459aeb9a5a.png)
+
+Back
+![LaLettreBack3D](https://user-images.githubusercontent.com/118025702/231088781-e3879d93-e255-417a-867c-4ea30fc91ed2.png)
