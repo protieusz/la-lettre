@@ -8,8 +8,15 @@ I will generate the firmware when I send my gerbers for print.
 
 Here are some pictures as a preview.  
 
-Front
+Front Rev 2
+![Screenshot 2023-04-17 at 8 50 24 AM](https://user-images.githubusercontent.com/118025702/232541517-374c57cf-f5fc-4fc2-96bc-a74455bf447c.png)
+
+Back Rev 2
+![Screenshot 2023-04-17 at 8 50 34 AM](https://user-images.githubusercontent.com/118025702/232541614-efe8ec79-413e-4ea5-a3dd-73fc4c80cd74.png)
+
+Front Rev 1
 ![LaLettreFront3D](https://user-images.githubusercontent.com/118025702/231088744-b1884606-fda2-4425-8ded-a3459aeb9a5a.png)
 
-Back
+Back Rev 1
 ![LaLettreBack3D](https://user-images.githubusercontent.com/118025702/231088781-e3879d93-e255-417a-867c-4ea30fc91ed2.png)
+
