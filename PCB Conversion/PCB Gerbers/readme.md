@@ -2,3 +2,5 @@ La Lettre Gerber zipped file is now release for public.  The current revision fo
 
 The mcu for my conversion of La Lettre handwire to pcb is Waveshare RP2040 Zero. So Pro Micro will definitely not work unless you mickey mouse handwire to make it work but that's another subject for another time.  As for the firmware https://github.com/protieusz/la-lettre/tree/main/pcb%20firmware the RP2040 version has already been compiled and I have also included the source code if you want to edit.  Good luck to all and have fun.
 
+UPDATE Apr 18, 2023
+https://github.com/protieusz/la-lettre/blob/main/PCB%20Conversion/PCB%20Gerbers/Gerber_PCB_La%20Lettre%20pcbLargerpads.zip is Rev 3 and has bigger mcu solder pads for better soldering of the Waveshare RP2040 zero mcu.
